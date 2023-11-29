@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-Welcome to my world, my name is Gerry Tonnoto. My friends always call me gerry. I'm 21 years old and still studying at Bunda Mulia University as computer science. In daily life, I really like playing games. So that it can be said as my hobby besides exercising..  
-my favorite programming languages are C++ and javascript. but now, I'm more focused on learning darts and java script. i'm always interested with how to make an application. that so why i'm take computer science for my study in my collage.
+Welcome to my world, my name is Gerry Tonnoto. My friends always call me gerry. I'm 21 years old and a graduate of Bunda Mulia University in Computer Science. In daily life, I really like playing games. So that it can be said as my hobby besides exercising...  
+My favorite programming language is JavaScript. For now, I'm focusing on studying website development, especially for the front-end development. React.js is my main JavaScript framework for the front end. but I'm also studying other programming languages like Go and PHP. For PHP, I'm usually using PHP native to make back-end projects that I'm working on. And for Go, I've just learned it because I think Go is more efficient than PHP for doing microservice.
 
 
 <p align="left">
